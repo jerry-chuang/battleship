@@ -2,7 +2,7 @@
 
 Based on the react rails boiler plate and LHL's stretch project requirements
 
-
+Under Development
 
 <!-- # React + Rails No-Fluff Boilerplate
 
