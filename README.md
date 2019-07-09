@@ -1,4 +1,10 @@
-# React + Rails No-Fluff Boilerplate
+#Battleship
+
+Based on the react rails boiler plate and LHL's stretch project requirements
+
+
+
+<!-- # React + Rails No-Fluff Boilerplate
 
 A boilerplate project for anyone interested in making a project that uses React and Rails.
 
@@ -79,4 +85,4 @@ To make your app work properly with React Router (if you end up using it) on Her
 
 ## Contact
 
-Please contact me at `nima@lighthouselabs.com` if you have any questions or requests, or post an issue to this repo.
+Please contact me at `nima@lighthouselabs.com` if you have any questions or requests, or post an issue to this repo. -->
